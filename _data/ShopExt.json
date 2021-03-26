@@ -886,13 +886,17 @@
       "name": "desensitized",
       "data": {
         "canBypassLimit": false,
-        "conflicts": [],
+        "conflicts": [
+          "squeamish"
+        ],
         "customName": false,
         "stats": []
       },
       "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
       "stats": [],
-      "conflicts": [],
+      "conflicts": [
+        "squeamish"
+      ],
       "bypassLimit": false
     },
     {
@@ -1580,6 +1584,358 @@
         "veryintelligent",
         "perceptive",
         "veryperceptive"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "IGTraitAssassinorum",
+      "degree": 0,
+      "name": "imperial-assassinorum",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "imperial-mechanicus",
+          "imperial-astramilitarum",
+          "imperial-inquisition",
+          "imperial-medic",
+          "imperial-astarte"
+        ],
+        "customName": false,
+        "stats": [
+          "+3 shooting",
+          "+3 melee",
+          "-20% aiming time",
+          "+0.2 shooting accuracy",
+          "+30% global learning factor",
+          "+0.10 move speed",
+          "-15% mental break threshold",
+          "+15% immunity gain speed",
+          "+75 carrying capacity",
+          "+15.0% Armor - Blunt",
+          "+15.0% Armor - Sharp",
+          "-15% toxic sensitivity"
+        ]
+      },
+      "description": "Timmy has been trained by the Officio Assassinorum to be a surgical tool to serve the Emperor against Chaos. he is blessed for combat excellence at range.",
+      "stats": [
+        "+3 shooting",
+        "+3 melee",
+        "-20% aiming time",
+        "+0.2 shooting accuracy",
+        "+30% global learning factor",
+        "+0.10 move speed",
+        "-15% mental break threshold",
+        "+15% immunity gain speed",
+        "+75 carrying capacity",
+        "+15.0% Armor - Blunt",
+        "+15.0% Armor - Sharp",
+        "-15% toxic sensitivity"
+      ],
+      "conflicts": [
+        "imperial-mechanicus",
+        "imperial-astramilitarum",
+        "imperial-inquisition",
+        "imperial-medic",
+        "imperial-astarte"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "IG_TraitAstarte",
+      "degree": 0,
+      "name": "imperial-astarte",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "imperial-mechanicus",
+          "imperial-assassinorum",
+          "imperial-inquisition",
+          "imperial-medic",
+          "imperial-astramilitarum"
+        ],
+        "customName": false,
+        "stats": [
+          "+5 shooting",
+          "+5 melee",
+          "+0.1 melee dodge chance",
+          "-20% aiming time",
+          "+0.2 shooting accuracy",
+          "+0.15 move speed",
+          "-20% mental break threshold",
+          "+25% immunity gain speed",
+          "+200 carrying capacity",
+          "+20.0% Armor - Blunt",
+          "+20.0% Armor - Sharp",
+          "-20% toxic sensitivity",
+          "x70% max hit points"
+        ]
+      },
+      "description": "Timmy has been blessed by the Emperor be the pinnacle of Human Warfare as one of his Chosen Astarte in the fight against Chaos. he is blessed with the Astarte Trait.",
+      "stats": [
+        "+5 shooting",
+        "+5 melee",
+        "+0.1 melee dodge chance",
+        "-20% aiming time",
+        "+0.2 shooting accuracy",
+        "+0.15 move speed",
+        "-20% mental break threshold",
+        "+25% immunity gain speed",
+        "+200 carrying capacity",
+        "+20.0% Armor - Blunt",
+        "+20.0% Armor - Sharp",
+        "-20% toxic sensitivity",
+        "x70% max hit points"
+      ],
+      "conflicts": [
+        "imperial-mechanicus",
+        "imperial-assassinorum",
+        "imperial-inquisition",
+        "imperial-medic",
+        "imperial-astramilitarum"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "IGTraitAstraMilitarum",
+      "degree": 0,
+      "name": "imperial-astramilitarum",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "imperial-mechanicus",
+          "imperial-assassinorum",
+          "imperial-inquisition",
+          "imperial-medic",
+          "imperial-astarte"
+        ],
+        "customName": false,
+        "stats": [
+          "+3 shooting",
+          "+3 melee",
+          "+0.3 melee dodge chance",
+          "-15% aiming time",
+          "+0.2 shooting accuracy",
+          "+15% global learning factor",
+          "+0.10 move speed",
+          "-15% mental break threshold",
+          "+15% immunity gain speed",
+          "+100 carrying capacity",
+          "+10.0% Armor - Blunt",
+          "+10.0% Armor - Sharp",
+          "-10% toxic sensitivity",
+          "x300% melee hit chance"
+        ]
+      },
+      "description": "Timmy has been blessed by the Emperor to be overall better than regular humans at all tasked related to combat to better serve the Emperor against Chaos. he is blessed with general combat excellence.",
+      "stats": [
+        "+3 shooting",
+        "+3 melee",
+        "+0.3 melee dodge chance",
+        "-15% aiming time",
+        "+0.2 shooting accuracy",
+        "+15% global learning factor",
+        "+0.10 move speed",
+        "-15% mental break threshold",
+        "+15% immunity gain speed",
+        "+100 carrying capacity",
+        "+10.0% Armor - Blunt",
+        "+10.0% Armor - Sharp",
+        "-10% toxic sensitivity",
+        "x300% melee hit chance"
+      ],
+      "conflicts": [
+        "imperial-mechanicus",
+        "imperial-assassinorum",
+        "imperial-inquisition",
+        "imperial-medic",
+        "imperial-astarte"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "IGTraitInquisition",
+      "degree": 0,
+      "name": "imperial-inquisition",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "imperial-mechanicus",
+          "imperial-astramilitarum",
+          "imperial-assassinorum",
+          "imperial-medic",
+          "imperial-astarte"
+        ],
+        "customName": false,
+        "stats": [
+          "+2 shooting",
+          "+1 melee",
+          "+1 crafting",
+          "+2 medical",
+          "+10% global work speed",
+          "-10% aiming time",
+          "+0.2 shooting accuracy",
+          "+14% global learning factor",
+          "+0.30 move speed",
+          "-15% mental break threshold",
+          "+14% immunity gain speed",
+          "+75 carrying capacity",
+          "+14.0% Armor - Blunt",
+          "+14.0% Armor - Sharp",
+          "-14% toxic sensitivity",
+          "+13.00% social impact",
+          "+14% research speed",
+          "x250% melee hit chance"
+        ]
+      },
+      "description": "Timmy has been trained by the Inquisition as the secret police of the Imperium responsible for guarding the souls of humanity. he is blessed by the Inquisition with a many varied skills.",
+      "stats": [
+        "+2 shooting",
+        "+1 melee",
+        "+1 crafting",
+        "+2 medical",
+        "+10% global work speed",
+        "-10% aiming time",
+        "+0.2 shooting accuracy",
+        "+14% global learning factor",
+        "+0.30 move speed",
+        "-15% mental break threshold",
+        "+14% immunity gain speed",
+        "+75 carrying capacity",
+        "+14.0% Armor - Blunt",
+        "+14.0% Armor - Sharp",
+        "-14% toxic sensitivity",
+        "+13.00% social impact",
+        "+14% research speed",
+        "x250% melee hit chance"
+      ],
+      "conflicts": [
+        "imperial-mechanicus",
+        "imperial-astramilitarum",
+        "imperial-assassinorum",
+        "imperial-medic",
+        "imperial-astarte"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "IGTraitMechanicus",
+      "degree": 0,
+      "name": "imperial-mechanicus",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "imperial-astramilitarum",
+          "imperial-assassinorum",
+          "imperial-inquisition",
+          "imperial-medic",
+          "imperial-astarte"
+        ],
+        "customName": false,
+        "stats": [
+          "+3 crafting",
+          "+3 construction",
+          "+3 mining",
+          "+25% global work speed",
+          "+130% global learning factor",
+          "+0.10 move speed",
+          "-15% mental break threshold",
+          "+20% immunity gain speed",
+          "+150 carrying capacity",
+          "+25.00% trade price improvement",
+          "+10.00% social impact",
+          "+10% construction speed"
+        ]
+      },
+      "description": "Timmy has been blessed by the Mechanicus to be overall better than regular humans at all tasked related to research, craft and mining. he is blessed for a harsh working environment.",
+      "stats": [
+        "+3 crafting",
+        "+3 construction",
+        "+3 mining",
+        "+25% global work speed",
+        "+130% global learning factor",
+        "+0.10 move speed",
+        "-15% mental break threshold",
+        "+20% immunity gain speed",
+        "+150 carrying capacity",
+        "+25.00% trade price improvement",
+        "+10.00% social impact",
+        "+10% construction speed"
+      ],
+      "conflicts": [
+        "imperial-astramilitarum",
+        "imperial-assassinorum",
+        "imperial-inquisition",
+        "imperial-medic",
+        "imperial-astarte"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "IGTraitImperialMedic",
+      "degree": 0,
+      "name": "imperial-medic",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "imperial-mechanicus",
+          "imperial-astramilitarum",
+          "imperial-assassinorum",
+          "imperial-inquisition",
+          "imperial-astarte"
+        ],
+        "customName": false,
+        "stats": [
+          "+6 medical",
+          "+15% global learning factor",
+          "+0.10 move speed",
+          "-12% mental break threshold",
+          "+13% immunity gain speed",
+          "+150 carrying capacity",
+          "-12% toxic sensitivity",
+          "+15.00% social impact"
+        ]
+      },
+      "description": "Timmy has been training in the arts of all medicine to help their fellow imperial citizens. he is blessed with medical excellence.",
+      "stats": [
+        "+6 medical",
+        "+15% global learning factor",
+        "+0.10 move speed",
+        "-12% mental break threshold",
+        "+13% immunity gain speed",
+        "+150 carrying capacity",
+        "-12% toxic sensitivity",
+        "+15.00% social impact"
+      ],
+      "conflicts": [
+        "imperial-mechanicus",
+        "imperial-astramilitarum",
+        "imperial-assassinorum",
+        "imperial-inquisition",
+        "imperial-astarte"
       ],
       "bypassLimit": false
     },
@@ -3134,25 +3490,6 @@
       "canRemove": true,
       "addPrice": 500,
       "removePrice": 500,
-      "defName": "SimpleMindedRobot",
-      "degree": 0,
-      "name": "simpleminded",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Robots do not understand emotions on a logical level.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 500,
-      "removePrice": 500,
       "defName": "SimpleMindedAndroid",
       "degree": 0,
       "name": "simpleminded",
@@ -3168,6 +3505,25 @@
       "stats": [
         "-90.00% social impact"
       ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 500,
+      "removePrice": 500,
+      "defName": "SimpleMindedRobot",
+      "degree": 0,
+      "name": "simpleminded",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Robots do not understand emotions on a logical level.",
+      "stats": [],
       "conflicts": [],
       "bypassLimit": false
     },
@@ -3322,7 +3678,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for he.",
+      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
       "stats": [],
       "conflicts": [
         "ironstomach"
@@ -4467,6 +4823,105 @@
       "defName": "Assaultron",
       "enabled": false,
       "name": "Assaultron",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2917,
+      "defName": "IG_StdChaosMarineRace",
+      "enabled": true,
+      "name": "Chaos Space Marine",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 29167,
+      "defName": "AstarteSpaceMarine",
+      "enabled": true,
+      "name": "Astarte Space Marine",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2917,
+      "defName": "OG_Abhuman_Ratling",
+      "enabled": true,
+      "name": "ratling",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 4167,
+      "defName": "OG_Abhuman_Ogryn",
+      "enabled": true,
+      "name": "ogryn",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2917,
+      "defName": "OG_Human_Mechanicus",
+      "enabled": true,
+      "name": "human",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3333,
+      "defName": "OG_Alien_Kroot",
+      "enabled": true,
+      "name": "Kroot",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3333,
+      "defName": "OG_Alien_Tau",
+      "enabled": true,
+      "name": "Tau",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3333,
+      "defName": "OG_Alien_Vespid",
+      "enabled": true,
+      "name": "Vespid",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3333,
+      "defName": "OG_Alien_Ork",
+      "enabled": true,
+      "name": "Ork",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3333,
+      "defName": "OG_Alien_Grot",
+      "enabled": true,
+      "name": "Grot",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3333,
+      "defName": "OG_Alien_Eldar",
+      "enabled": true,
+      "name": "Eldar",
       "data": {
         "customName": false
       }
