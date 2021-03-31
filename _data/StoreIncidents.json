@@ -3,12 +3,12 @@
 	{
 		"abr": "tornado",
 		"price": 800,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "tornados",
 		"price": 2600,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -352,7 +352,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{

@@ -1590,8 +1590,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 500,
+      "removePrice": 500,
       "defName": "IGTraitAssassinorum",
       "degree": 0,
       "name": "imperial-assassinorum",
@@ -1647,8 +1647,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 500,
+      "removePrice": 500,
       "defName": "IG_TraitAstarte",
       "degree": 0,
       "name": "imperial-astarte",
@@ -1706,8 +1706,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 500,
+      "removePrice": 500,
       "defName": "IGTraitAstraMilitarum",
       "degree": 0,
       "name": "imperial-astramilitarum",
@@ -1767,8 +1767,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 500,
+      "removePrice": 500,
       "defName": "IGTraitInquisition",
       "degree": 0,
       "name": "imperial-inquisition",
@@ -1836,8 +1836,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 500,
+      "removePrice": 500,
       "defName": "IGTraitMechanicus",
       "degree": 0,
       "name": "imperial-mechanicus",
@@ -1893,8 +1893,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 500,
+      "removePrice": 500,
       "defName": "IGTraitImperialMedic",
       "degree": 0,
       "name": "imperial-medic",
@@ -3490,6 +3490,25 @@
       "canRemove": true,
       "addPrice": 500,
       "removePrice": 500,
+      "defName": "SimpleMindedRobot",
+      "degree": 0,
+      "name": "simpleminded",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Robots do not understand emotions on a logical level.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 500,
+      "removePrice": 500,
       "defName": "SimpleMindedAndroid",
       "degree": 0,
       "name": "simpleminded",
@@ -3505,25 +3524,6 @@
       "stats": [
         "-90.00% social impact"
       ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 500,
-      "removePrice": 500,
-      "defName": "SimpleMindedRobot",
-      "degree": 0,
-      "name": "simpleminded",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Robots do not understand emotions on a logical level.",
-      "stats": [],
       "conflicts": [],
       "bypassLimit": false
     },
@@ -4671,95 +4671,170 @@
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Scent",
+      "degree": 1,
+      "name": "lovelyscent",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy gives off a lovely scent naturally, this strangely enticing attribute makes people attracted to him before he even opens his mouth.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Scent",
+      "degree": -1,
+      "name": "displeasingscent",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is somewhat smelly. This subtly repels others during social interactions.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Scent",
+      "degree": -2,
+      "name": "deathlystench",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy smells unbelievably bad. his natural aroma is so awful that people are physically repelled by it. Others must exert conscious effort to even be near him while conversing.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
     }
   ],
   "races": [
     {
-      "price": 13333,
-      "defName": "Android5Tier",
-      "enabled": true,
-      "name": "T5 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 10000,
-      "defName": "Android4Tier",
-      "enabled": true,
-      "name": "T4 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 8000,
-      "defName": "Android3Tier",
-      "enabled": true,
-      "name": "T3 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 4167,
-      "defName": "Android2Tier",
-      "enabled": true,
-      "name": "T2 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2333,
-      "defName": "Android1Tier",
-      "enabled": true,
-      "name": "T1 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 4167,
-      "defName": "Sentrybot",
-      "enabled": false,
-      "name": "Sentrybot",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "Securitron",
-      "enabled": false,
-      "name": "Securitron",
-      "data": {
-        "customName": false
-      }
-    },
-    {
       "price": 2500,
-      "defName": "ScrapBot",
+      "defName": "Assaultron",
       "enabled": false,
-      "name": "Scrapbot",
+      "name": "Assaultron",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2083,
-      "defName": "Protectetron",
+      "price": 29167,
+      "defName": "AstarteSpaceMarine",
       "enabled": false,
-      "name": "Protectetron",
+      "name": "Astarte Space Marine",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2917,
+      "defName": "IG_StdChaosMarineRace",
+      "enabled": true,
+      "name": "Chaos Space Marine",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3333,
+      "defName": "OG_Alien_Eldar",
+      "enabled": true,
+      "name": "Eldar",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1667,
+      "defName": "Ghoul",
+      "enabled": true,
+      "name": "ghoul",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1667,
+      "defName": "GlowingGhoul",
+      "enabled": false,
+      "name": "glowing one",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3333,
+      "defName": "OG_Alien_Grot",
+      "enabled": true,
+      "name": "Grot",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2917,
+      "defName": "OG_Human_Mechanicus",
+      "enabled": true,
+      "name": "human",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1500,
+      "defName": "Human",
+      "enabled": true,
+      "name": "human",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3333,
+      "defName": "OG_Alien_Kroot",
+      "enabled": true,
+      "name": "Kroot",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 30000,
+      "defName": "M7Mech",
+      "enabled": false,
+      "name": "M7 Mechanised infantry",
       "data": {
         "customName": false
       }
     },
     {
       "price": 4083,
-      "defName": "NurseHandy",
+      "defName": "MisterGutsy",
       "enabled": false,
-      "name": "Nurse Handy",
+      "name": "Mister Gutsy",
       "data": {
         "customName": false
       }
@@ -4775,81 +4850,9 @@
     },
     {
       "price": 4083,
-      "defName": "MisterGutsy",
+      "defName": "NurseHandy",
       "enabled": false,
-      "name": "Mister Gutsy",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 30000,
-      "defName": "M7Mech",
-      "enabled": false,
-      "name": "M7 Mechanised infantry",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 1500,
-      "defName": "Human",
-      "enabled": true,
-      "name": "human",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 1667,
-      "defName": "GlowingGhoul",
-      "enabled": false,
-      "name": "glowing one",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 1667,
-      "defName": "Ghoul",
-      "enabled": true,
-      "name": "ghoul",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2500,
-      "defName": "Assaultron",
-      "enabled": false,
-      "name": "Assaultron",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2917,
-      "defName": "IG_StdChaosMarineRace",
-      "enabled": true,
-      "name": "Chaos Space Marine",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 29167,
-      "defName": "AstarteSpaceMarine",
-      "enabled": true,
-      "name": "Astarte Space Marine",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2917,
-      "defName": "OG_Abhuman_Ratling",
-      "enabled": true,
-      "name": "ratling",
+      "name": "Nurse Handy",
       "data": {
         "customName": false
       }
@@ -4864,19 +4867,100 @@
       }
     },
     {
-      "price": 2917,
-      "defName": "OG_Human_Mechanicus",
+      "price": 3333,
+      "defName": "OG_Alien_Ork",
       "enabled": true,
-      "name": "human",
+      "name": "Ork",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 3333,
-      "defName": "OG_Alien_Kroot",
+      "price": 2083,
+      "defName": "Protectetron",
+      "enabled": false,
+      "name": "Protectetron",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2917,
+      "defName": "OG_Abhuman_Ratling",
       "enabled": true,
-      "name": "Kroot",
+      "name": "ratling",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "ScrapBot",
+      "enabled": false,
+      "name": "Scrapbot",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "Securitron",
+      "enabled": false,
+      "name": "Securitron",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 4167,
+      "defName": "Sentrybot",
+      "enabled": false,
+      "name": "Sentrybot",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2333,
+      "defName": "Android1Tier",
+      "enabled": true,
+      "name": "T1 Android",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 4167,
+      "defName": "Android2Tier",
+      "enabled": true,
+      "name": "T2 Android",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 8000,
+      "defName": "Android3Tier",
+      "enabled": true,
+      "name": "T3 Android",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 10000,
+      "defName": "Android4Tier",
+      "enabled": true,
+      "name": "T4 Android",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 13333,
+      "defName": "Android5Tier",
+      "enabled": true,
+      "name": "T5 Android",
       "data": {
         "customName": false
       }
@@ -4900,17 +4984,35 @@
       }
     },
     {
-      "price": 3333,
-      "defName": "OG_Alien_Ork",
+      "price": 13333,
+      "defName": "Alien_Astartes",
       "enabled": true,
-      "name": "Ork",
+      "name": "Space Marine",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 3333,
-      "defName": "OG_Alien_Grot",
+      "price": 13333,
+      "defName": "Alien_Salamander",
+      "enabled": true,
+      "name": "Space Marine",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5833,
+      "defName": "Alien_Eldar",
+      "enabled": true,
+      "name": "Eldar",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 500,
+      "defName": "Alien_Grot",
       "enabled": true,
       "name": "Grot",
       "data": {
@@ -4919,9 +5021,234 @@
     },
     {
       "price": 3333,
-      "defName": "OG_Alien_Eldar",
+      "defName": "Alien_Terran",
       "enabled": true,
-      "name": "Eldar",
+      "name": "Terran",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 10000,
+      "defName": "Alien_Ogryn",
+      "enabled": true,
+      "name": "Ogryn",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1667,
+      "defName": "Alien_Kroot",
+      "enabled": true,
+      "name": "Kroot",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 13333,
+      "defName": "Alien_NecronWarriorGreen",
+      "enabled": true,
+      "name": "Necron Warrior",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 13333,
+      "defName": "Alien_NecronWarriorBlue",
+      "enabled": true,
+      "name": "Necron Warrior",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 13333,
+      "defName": "Alien_NecronWarriorOrange",
+      "enabled": true,
+      "name": "Necron Warrior",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 14167,
+      "defName": "Alien_NecronDeathmarkGreen",
+      "enabled": true,
+      "name": "Necron Deathmark",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 14167,
+      "defName": "Alien_NecronDeathmarkBlue",
+      "enabled": true,
+      "name": "Necron Deathmark",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 14167,
+      "defName": "Alien_NecronDeathmarkOrange",
+      "enabled": true,
+      "name": "Necron Deathmark",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 16667,
+      "defName": "Alien_NecronLordGreen",
+      "enabled": true,
+      "name": "Necron Lord",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 16667,
+      "defName": "Alien_NecronLordBlue",
+      "enabled": true,
+      "name": "Necron Lord",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 16667,
+      "defName": "Alien_NecronLordOrange",
+      "enabled": true,
+      "name": "Necron Lord",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 20000,
+      "defName": "Alien_NecronOverlordGreen",
+      "enabled": true,
+      "name": "Necron Overlord",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 20000,
+      "defName": "Alien_NecronOverlordBlue",
+      "enabled": true,
+      "name": "Necron Overlord",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 20000,
+      "defName": "Alien_NecronOverlordOrange",
+      "enabled": true,
+      "name": "Necron Overlord",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1667,
+      "defName": "Alien_Ork",
+      "enabled": true,
+      "name": "Ork",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3333,
+      "defName": "Alien_GSCultist",
+      "enabled": true,
+      "name": "Terran",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 14167,
+      "defName": "Alien_NecronPariahBlue",
+      "enabled": true,
+      "name": "Necron Pariah",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 16667,
+      "defName": "Alien_NecronSpyderBlue",
+      "enabled": true,
+      "name": "Canoptek Spyder",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 14167,
+      "defName": "Alien_NecronPariahGreen",
+      "enabled": true,
+      "name": "Necron Pariah",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 16667,
+      "defName": "Alien_NecronSpyderGreen",
+      "enabled": true,
+      "name": "Canoptek Spyder",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 14167,
+      "defName": "Alien_NecronPariahOrange",
+      "enabled": true,
+      "name": "Necron Pariah",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 16667,
+      "defName": "Alien_NecronSpyderOrange",
+      "enabled": true,
+      "name": "Canoptek Spyder",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 13333,
+      "defName": "Alien_Sororitas",
+      "enabled": true,
+      "name": "Sister Of Battle",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3333,
+      "defName": "Alien_Tau",
+      "enabled": true,
+      "name": "Tau",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 5000,
+      "defName": "Alien_Vespid",
+      "enabled": true,
+      "name": "Vespid",
       "data": {
         "customName": false
       }
