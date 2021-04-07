@@ -862,6 +862,25 @@
       "canRemove": true,
       "addPrice": 500,
       "removePrice": 500,
+      "defName": "Scent",
+      "degree": -2,
+      "name": "deathlystench",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy smells unbelievably bad. his natural aroma is so awful that people are physically repelled by it. Others must exert conscious effort to even be near him while conversing.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 500,
+      "removePrice": 500,
       "defName": "NaturalMood",
       "degree": -2,
       "name": "depressive",
@@ -897,6 +916,25 @@
       "conflicts": [
         "squeamish"
       ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 500,
+      "removePrice": 500,
+      "defName": "Scent",
+      "degree": -1,
+      "name": "displeasingscent",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is somewhat smelly. This subtly repels others during social interactions.",
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false
     },
     {
@@ -2316,6 +2354,25 @@
         "actionboy",
         "actiongirl"
       ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 500,
+      "removePrice": 500,
+      "defName": "Scent",
+      "degree": 1,
+      "name": "lovelyscent",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy gives off a lovely scent naturally, this strangely enticing attribute makes people attracted to him before he even opens his mouth.",
+      "stats": [],
+      "conflicts": [],
       "bypassLimit": false
     },
     {
@@ -4668,63 +4725,6 @@
         "stats": []
       },
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "Scent",
-      "degree": 1,
-      "name": "lovelyscent",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy gives off a lovely scent naturally, this strangely enticing attribute makes people attracted to him before he even opens his mouth.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "Scent",
-      "degree": -1,
-      "name": "displeasingscent",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is somewhat smelly. This subtly repels others during social interactions.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "Scent",
-      "degree": -2,
-      "name": "deathlystench",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy smells unbelievably bad. his natural aroma is so awful that people are physically repelled by it. Others must exert conscious effort to even be near him while conversing.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
