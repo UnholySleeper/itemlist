@@ -341,7 +341,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.2.0.7"
+    "version": "1.2.0.8"
   },
   {
     "author": "Nunahur Al-Shamikh",
@@ -350,5 +350,13 @@
   {
     "author": "SGC",
     "name": "Quest Reward Rebalance"
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Medicines"
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Prosthetics"
   }
 ]

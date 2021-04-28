@@ -6,6 +6,11 @@
 		"karmatype": "Doom"
 	},
 	{
+		"abr": "tornados",
+		"price": 2600,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -386,5 +391,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 77
+	"total": 78
 }
