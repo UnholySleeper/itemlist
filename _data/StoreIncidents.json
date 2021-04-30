@@ -2,13 +2,13 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 1600,
-		"karmatype": "Doom"
+		"price": 800,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
 		"price": 2600,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "clearweather",
@@ -137,7 +137,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 1000,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -326,6 +326,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "reviveall",
 		"price": 22664,
 		"karmatype": "Good"
@@ -391,5 +396,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 78
+	"total": 79
 }
