@@ -24,10 +24,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "jecrell and contributors",
-    "name": "JecsTools (Unofficial)",
-    "steamId": "2195729899",
-    "version": "1.1.2.2"
+    "author": "jecrell",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.1.1.2"
   },
   {
     "author": "Kentington and Thain",
@@ -402,12 +402,6 @@
     "name": "My Royal Shuttle"
   },
   {
-    "author": "Netrve",
-    "name": "Netrve's DeepStorage GUI",
-    "steamId": "2169841018",
-    "version": "1.2.1.38"
-  },
-  {
     "author": "JisPichi",
     "name": "Perfect Pathfinding",
     "steamId": "2341486509",
@@ -484,10 +478,6 @@
   {
     "author": "gguake",
     "name": "Simple Search Bar"
-  },
-  {
-    "author": "Thirite, Ziehn, MarkSill",
-    "name": "Simple Slavery [1.2]"
   },
   {
     "author": "PinoChemicali",
@@ -672,10 +662,6 @@
     "name": "Vault-Tec - Handy things for your vault!"
   },
   {
-    "author": "Seos",
-    "name": "VFE - Mechanoids : Drones"
-  },
-  {
     "author": "Murmur",
     "name": "Wall Light",
     "steamId": "1423699208",
@@ -806,5 +792,25 @@
     "name": "TwitchToolkit - Lootboxes",
     "steamId": "1720021578",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Armoury",
+    "steamId": "1541438614",
+    "version": "1.6.1.1"
+  },
+  {
+    "author": "Nowano",
+    "name": "Craftable VFE - Viking Weapons and Armours"
+  },
+  {
+    "author": "legodude17",
+    "name": "Smarter Deconstruction",
+    "steamId": "2398365712",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Thirite, Ziehn, MarkSill",
+    "name": "Simple Slavery [1.2]"
   }
 ]
