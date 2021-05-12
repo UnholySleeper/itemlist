@@ -88,32 +88,8 @@
     "version": "1.3.2.0"
   },
   {
-    "author": "Mlie",
-    "name": "Fill backstories",
-    "steamId": "2407610901",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Rimhammer 40K (Continued)",
-    "steamId": "2408117769",
-    "version": "1.0.4.0"
-  },
-  {
-    "author": "AliceTries, updated by Ogliss",
-    "name": "[WarHammer 40k] GeneSeed",
-    "steamId": "2017823407",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "spoonshortage",
     "name": "A Dog Said... Animal Prosthetics"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.5.4.10"
   },
   {
     "author": "Andreas Pardeike",
@@ -284,10 +260,6 @@
     "version": "1.0.2"
   },
   {
-    "author": "RamRod",
-    "name": "Fallout Races: Playable Ghoul (Continued)"
-  },
-  {
     "author": "Mlie",
     "name": "Fallout Traits (Continued)"
   },
@@ -304,14 +276,6 @@
   {
     "author": "Roolo",
     "name": "Giddy-up! Caravan"
-  },
-  {
-    "author": "Roolo",
-    "name": "What the hack?!"
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Mechanoids"
   },
   {
     "author": "Sam",
@@ -366,10 +330,6 @@
     "name": "Infused",
     "steamId": "731287727",
     "version": "1.1.1.0"
-  },
-  {
-    "author": "Kure",
-    "name": "Kure's Rimworld of Magic Class Expansion Pack"
   },
   {
     "author": "Jecrell,lbmaian",
@@ -788,24 +748,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "QuantumX",
-    "name": "Astra Militarum Imperial Guard Core Mod v2.10"
-  },
-  {
-    "author": "QuantumX",
-    "name": "Astra Militarum Imperial Guard Factions Mod v2.1"
-  },
-  {
-    "author": "QuantumX",
-    "name": "Astra Militarum Imperial Guard ServoSkull Addon Mod v1.3"
-  },
-  {
-    "author": "Ogliss",
-    "name": "Adeptus Mechanicus: Armoury",
-    "steamId": "1541438614",
-    "version": "1.6.1.1"
-  },
-  {
     "author": "Nowano",
     "name": "Craftable VFE - Viking Weapons and Armours"
   },
@@ -858,5 +800,21 @@
   {
     "author": "Crustypeanut",
     "name": "RimCuisine 2 Meals and Munchies Expansion (Continued)"
+  },
+  {
+    "author": "Yanzihko",
+    "name": "Archotech Re-Expanded"
+  },
+  {
+    "author": "Squirting Elephant",
+    "name": "Planetary Drill",
+    "steamId": "2010740880",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory Revived",
+    "steamId": "2033979700",
+    "version": "2.5.71"
   }
 ]
