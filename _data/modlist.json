@@ -6,6 +6,48 @@
     "version": "1.0.4.0"
   },
   {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "5.0.3.2"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitResearch",
+    "steamId": "2312827542",
+    "version": "1.0.1.8"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.2.1"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.2.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Fluffy",
     "name": "Mod Manager",
     "steamId": "1507748539",
@@ -462,12 +504,6 @@
     "name": "RunAndGun"
   },
   {
-    "author": "CaptainPootis",
-    "name": "RuntimeGC",
-    "steamId": "2228430510",
-    "version": "20.0.15.1"
-  },
-  {
     "author": "Pikes",
     "name": "Scar Removal Drug"
   },
@@ -654,6 +690,10 @@
     "name": "Vanilla Weapons Expanded"
   },
   {
+    "author": "✬Rustic Fox✬",
+    "name": "Bulk Stone Cutting [1.0->1.2]"
+  },
+  {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Laser"
   },
@@ -698,10 +738,6 @@
   {
     "author": "Carolusclen",
     "name": "World Map Beautification Project - for Realistic Planets"
-  },
-  {
-    "author": "✬Rustic Fox✬",
-    "name": "Bulk Stone Cutting [1.0->1.2]"
   },
   {
     "author": "Dubwise",
@@ -752,46 +788,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
+    "author": "QuantumX",
+    "name": "Astra Militarum Imperial Guard Core Mod v2.10"
   },
   {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
+    "author": "QuantumX",
+    "name": "Astra Militarum Imperial Guard Factions Mod v2.1"
   },
   {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.2.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "2091359241",
-    "version": "1.0.2.1"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.1.8"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "5.0.3.2"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes",
-    "steamId": "1720021578",
-    "version": "1.0.0.0"
+    "author": "QuantumX",
+    "name": "Astra Militarum Imperial Guard ServoSkull Addon Mod v1.3"
   },
   {
     "author": "Ogliss",
@@ -812,5 +818,45 @@
   {
     "author": "Thirite, Ziehn, MarkSill",
     "name": "Simple Slavery [1.2]"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool"
+  },
+  {
+    "author": "Netrve",
+    "name": "Netrve's DeepStorage GUI",
+    "steamId": "2169841018",
+    "version": "1.2.1.38"
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Reinforced Doors"
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Core"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Extended Cut"
+  },
+  {
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: N7"
+  },
+  {
+    "author": "Crustypeanut",
+    "name": "[1.0, 1.1] RimCuisine 2 Core"
+  },
+  {
+    "author": "Crustypeanut",
+    "name": "RimCuisine 2 Meals and Munchies Expansion (Continued)"
   }
 ]

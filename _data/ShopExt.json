@@ -19884,7 +19884,7 @@
           "-30% aiming time"
         ]
       },
-      "description": "No one knows of Timmy's true origins, but in battle they seem more a demon than anything else. They are capable of flying directly into enemy positions unbidden, and warping the minds of their enemies, causing discord and destruction.",
+      "description": "No one knows of Timmy's true origins, but in battle they seem more a demon than anything else. They are capable of flying directly into enemy positions unbidden and warping the minds of their enemies, causing discord and destruction.",
       "stats": [
         "+0.80 move speed",
         "-16% mental break threshold",
@@ -28847,6 +28847,319 @@
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RE_BioticRecoveryOffset",
+      "degree": -2,
+      "name": "bioticallydeaf",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "-0.8 biotic energy recovery rate"
+        ]
+      },
+      "description": "Timmy’s biotic capabilities are significantly dampened by past trauma, or simply the lack of predisposition.",
+      "stats": [
+        "-0.8 biotic energy recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RE_BioticRecoveryOffset",
+      "degree": -1,
+      "name": "bioticallydull",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "-0.5 biotic energy recovery rate"
+        ]
+      },
+      "description": "Timmy has not yet unlocked their full biotic potential, and most likely never will.",
+      "stats": [
+        "-0.5 biotic energy recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RE_BioticRecoveryOffset",
+      "degree": 1,
+      "name": "bioticallyskilled",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+0.5 biotic energy recovery rate"
+        ]
+      },
+      "description": "Timmy’s biotic skills are greatly above average, allowing them to use the power without any fear of migraines or discomfort.",
+      "stats": [
+        "+0.5 biotic energy recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "RE_BioticRecoveryOffset",
+      "degree": 2,
+      "name": "bioticallytalented",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+2 biotic energy recovery rate"
+        ]
+      },
+      "description": "Timmy’s biotic skills are known far and wide across the galaxy due to their talent and rare predisposition.",
+      "stats": [
+        "+2 biotic energy recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "IGTraitMechanicus",
+      "degree": 0,
+      "name": "imperial-mechanicus",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy has been blessed by the Mechanicus to be overall better than regular humans at all tasked related to research, craft and mining. he is blessed for a harsh working environment.",
+      "stats": [
+        "+3 crafting",
+        "+3 construction",
+        "+3 mining",
+        "+25% global work speed",
+        "+130% global learning factor",
+        "+0.10 move speed",
+        "-15% mental break threshold",
+        "+20% immunity gain speed",
+        "+150 carrying capacity",
+        "+25.00% trade price improvement",
+        "+10.00% social impact",
+        "+10% construction speed"
+      ],
+      "conflicts": [
+        "imperial-astramilitarum",
+        "imperial-assassinorum",
+        "imperial-inquisition",
+        "imperial-medic",
+        "imperial-astarte"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "IGTraitAstraMilitarum",
+      "degree": 0,
+      "name": "imperial-astramilitarum",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy has been blessed by the Emperor to be overall better than regular humans at all tasked related to combat to better serve the Emperor against Chaos. he is blessed with general combat excellence.",
+      "stats": [
+        "+3 shooting",
+        "+3 melee",
+        "+0.3 melee dodge chance",
+        "-15% aiming time",
+        "+0.2 shooting accuracy",
+        "+15% global learning factor",
+        "+0.10 move speed",
+        "-15% mental break threshold",
+        "+15% immunity gain speed",
+        "+100 carrying capacity",
+        "+10.0% Armor - Blunt",
+        "+10.0% Armor - Sharp",
+        "-10% toxic sensitivity",
+        "x300% melee hit chance"
+      ],
+      "conflicts": [
+        "imperial-mechanicus",
+        "imperial-assassinorum",
+        "imperial-inquisition",
+        "imperial-medic",
+        "imperial-astarte"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "IGTraitAssassinorum",
+      "degree": 0,
+      "name": "imperial-assassinorum",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy has been trained by the Officio Assassinorum to be a surgical tool to serve the Emperor against Chaos. he is blessed for combat excellence at range.",
+      "stats": [
+        "+3 shooting",
+        "+3 melee",
+        "-20% aiming time",
+        "+0.2 shooting accuracy",
+        "+30% global learning factor",
+        "+0.10 move speed",
+        "-15% mental break threshold",
+        "+15% immunity gain speed",
+        "+75 carrying capacity",
+        "+15.0% Armor - Blunt",
+        "+15.0% Armor - Sharp",
+        "-15% toxic sensitivity"
+      ],
+      "conflicts": [
+        "imperial-mechanicus",
+        "imperial-astramilitarum",
+        "imperial-inquisition",
+        "imperial-medic",
+        "imperial-astarte"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "IGTraitInquisition",
+      "degree": 0,
+      "name": "imperial-inquisition",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy has been trained by the Inquisition as the secret police of the Imperium responsible for guarding the souls of humanity. he is blessed by the Inquisition with a many varied skills.",
+      "stats": [
+        "+2 shooting",
+        "+1 melee",
+        "+1 crafting",
+        "+2 medical",
+        "+10% global work speed",
+        "-10% aiming time",
+        "+0.2 shooting accuracy",
+        "+14% global learning factor",
+        "+0.30 move speed",
+        "-15% mental break threshold",
+        "+14% immunity gain speed",
+        "+75 carrying capacity",
+        "+14.0% Armor - Blunt",
+        "+14.0% Armor - Sharp",
+        "-14% toxic sensitivity",
+        "+13.00% social impact",
+        "+14% research speed",
+        "x250% melee hit chance"
+      ],
+      "conflicts": [
+        "imperial-mechanicus",
+        "imperial-astramilitarum",
+        "imperial-assassinorum",
+        "imperial-medic",
+        "imperial-astarte"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "IGTraitImperialMedic",
+      "degree": 0,
+      "name": "imperial-medic",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy has been training in the arts of all medicine to help their fellow imperial citizens. he is blessed with medical excellence.",
+      "stats": [
+        "+6 medical",
+        "+15% global learning factor",
+        "+0.10 move speed",
+        "-12% mental break threshold",
+        "+13% immunity gain speed",
+        "+150 carrying capacity",
+        "-12% toxic sensitivity",
+        "+15.00% social impact"
+      ],
+      "conflicts": [
+        "imperial-mechanicus",
+        "imperial-astramilitarum",
+        "imperial-assassinorum",
+        "imperial-inquisition",
+        "imperial-astarte"
+      ],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "IG_TraitAstarte",
+      "degree": 0,
+      "name": "imperial-astarte",
+      "data": {
+        "canBypassLimit": false,
+        "customName": false
+      },
+      "description": "Timmy has been blessed by the Emperor be the pinnacle of Human Warfare as one of his Chosen Astarte in the fight against Chaos. he is blessed with the Astarte Trait.",
+      "stats": [
+        "+5 shooting",
+        "+5 melee",
+        "+0.1 melee dodge chance",
+        "-20% aiming time",
+        "+0.2 shooting accuracy",
+        "+0.15 move speed",
+        "-20% mental break threshold",
+        "+25% immunity gain speed",
+        "+200 carrying capacity",
+        "+20.0% Armor - Blunt",
+        "+20.0% Armor - Sharp",
+        "-20% toxic sensitivity",
+        "x70% max hit points"
+      ],
+      "conflicts": [
+        "imperial-mechanicus",
+        "imperial-assassinorum",
+        "imperial-inquisition",
+        "imperial-medic",
+        "imperial-astramilitarum"
+      ],
+      "bypassLimit": false
     }
   ],
   "races": [
@@ -29206,6 +29519,15 @@
       "defName": "AstarteSpaceMarine",
       "enabled": true,
       "name": "Astarte Space Marine",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2917,
+      "defName": "IG_StdChaosMarineRace",
+      "enabled": true,
+      "name": "Chaos Space Marine",
       "data": {
         "customName": false
       }
