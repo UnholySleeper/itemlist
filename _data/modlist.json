@@ -112,10 +112,16 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, Smash Phil",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.0.8.0"
+  },
+  {
     "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
     "name": "Alpha Animals",
     "steamId": "1541721856",
-    "version": "1.0.7.0"
+    "version": "1.0.0.0"
   },
   {
     "author": "Sarg",
@@ -161,7 +167,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.2.0.8"
+    "version": "1.2.0.9"
   },
   {
     "author": "JangoD'soul",
@@ -704,6 +710,28 @@
     "name": "Dubs Rimkit"
   },
   {
+    "author": "Roolo",
+    "name": "What the hack?!"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk",
+    "name": "Vanilla Books Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Cooking Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Brewing Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs"
   },
@@ -714,10 +742,6 @@
   {
     "author": "Mehni",
     "name": "Pick Up And Haul (Continued)"
-  },
-  {
-    "author": "Jaxe",
-    "name": "RimHUD"
   },
   {
     "author": "targhetti",
@@ -740,12 +764,6 @@
   {
     "author": "Oskar Potocki, Taranchuk",
     "name": "Vanilla Weapons Expanded - Heavy Weapons"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
-    "version": "1.0.0.0"
   },
   {
     "author": "Nowano",
@@ -776,22 +794,10 @@
     "name": "[WD] Reinforced Doors"
   },
   {
-    "author": "Vanilla Expanded Team and Co.",
-    "name": "Rim-Effect: Core"
-  },
-  {
     "author": "Krkr",
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Vanilla Expanded Team and Co.",
-    "name": "Rim-Effect: Extended Cut"
-  },
-  {
-    "author": "Vanilla Expanded Team and Co.",
-    "name": "Rim-Effect: N7"
+    "version": "0.6.3.1411"
   },
   {
     "author": "Crustypeanut",
@@ -818,13 +824,85 @@
     "version": "2.5.71"
   },
   {
-    "author": "Troopersmith1 - Helixien - Xen",
-    "name": "RimEffect - Asari of the Rims Continued [1.1][1.2]"
+    "author": "Hanabishi",
+    "name": "In-wall coolers and vents"
   },
   {
-    "author": "Deathwing",
-    "name": "Mass Effect - Playable Geth",
-    "steamId": "1819987395",
+    "author": "Fluffy",
+    "name": "Desire Paths",
+    "steamId": "2072410063",
+    "version": "0.8.102"
+  },
+  {
+    "author": "Mlie",
+    "name": "Fences And Floors (Continued)"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Mechanoids"
+  },
+  {
+    "author": "ItsComcastic",
+    "name": "Haul to Stack"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul"
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry 1.1",
+    "steamId": "2007576583",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Indeed",
+    "name": "Stack XXL"
+  },
+  {
+    "author": "mr_chimick",
+    "name": "TwitchToolkit Bridge - Vanilla Events Expanded"
+  },
+  {
+    "author": "mr_chimick",
+    "name": "TwitchToolkit Bridge - VFE Settlers"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Apparel Expanded"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
+    "name": "Vanilla Plants Expanded"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Vanilla Textures Expanded - Variations"
+  },
+  {
+    "author": "Oskar Potocki, AveryTheKitty, Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns"
   }
 ]
