@@ -2,13 +2,13 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
+		"price": 1000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
+		"price": 3000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -173,7 +173,7 @@
 	{
 		"abr": "rarethrumbos",
 		"price": 500,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "shipchunkdrop",
@@ -268,7 +268,7 @@
 	{
 		"abr": "disease",
 		"price": 1000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "reviveanypawn",
@@ -352,7 +352,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
