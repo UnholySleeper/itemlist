@@ -2,11 +2,6 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 1000,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "tornados",
 		"price": 3000,
 		"karmatype": "Doom"
 	},
@@ -303,7 +298,7 @@
 	{
 		"abr": "prisoner",
 		"price": 800,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "visitcolony",
@@ -318,11 +313,6 @@
 	{
 		"abr": "torytalkervote",
 		"price": 750,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hodlbotvote",
-		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
@@ -436,5 +426,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 87
+	"total": 85
 }
